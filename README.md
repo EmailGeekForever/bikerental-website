@@ -6,9 +6,9 @@ This is a bike rental website that allows users to rent bikes for their transpor
 
 I have a YouTube channel where you can find more tutorials and videos related to this project. Check out my channel [here](https://www.youtube.com/@GeekForeverChannel).
 
-## Tutorial: How to Setup or Host the Bike Rental Website
+## Tutorial: How to Setup or Host the Bike Rental Website Online
 
-I have created a video tutorial on YouTube that demonstrates how to set up and host this bike rental website. You can watch the tutorial [here](https://youtu.be/qnrXURmQSlI).
+I have created a video tutorial on YouTube that demonstrates how to set up and host this bike rental website online. You can watch the tutorial [here](https://youtu.be/qnrXURmQSlI).
 
 [![Bike Rental Website Setup Tutorial](https://i.ytimg.com/vi/qnrXURmQSlI/maxresdefault.jpg)](https://youtu.be/qnrXURmQSlI)
 
