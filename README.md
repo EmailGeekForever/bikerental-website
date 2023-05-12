@@ -27,6 +27,23 @@ I have also created a video on my YouTube channel showcasing the features and fu
 - View rental history and details
 - Admin dashboard for managing bikes, users, and rentals
 
+# List of Accounts
+
+This README provides a list of user and admin accounts associated with a project or application.
+
+## User Accounts
+
+- **Username:** test@gmail.com
+  - **Password:** 1234
+
+- **Username:** email@gmail.com
+  - **Password:** 1234
+
+## Admin Account
+
+- **Username:** admin
+  - **Password:** 1234
+
 ## Contributing
 Contributions to this project are welcome. If you find any bugs or would like to suggest new features, please open an issue or submit a pull request.
 
