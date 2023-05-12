@@ -1,0 +1,17 @@
+
+
+USER    
+
+	username :test@gmail.com
+        password :1234
+
+	email@gmail.com
+	1234
+
+
+
+ADMIN   
+
+	username:admin
+        password:1234
+
