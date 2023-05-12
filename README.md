@@ -16,7 +16,7 @@ I have created a video tutorial on YouTube that demonstrates how to set up and h
 
 I have also created a video on my YouTube channel showcasing the features and functionality of this bike rental website. You can watch the showcase video [here](https://youtu.be/CMTObiR45LI).
 
-[![Bike Rental Website Showcase](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCMTObiR45LI&psig=AOvVaw3syqbMu5qxCq4ZiT1a96bc&ust=1683967605368000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPj25qmy7_4CFQAAAAAdAAAAABAE)](https://youtu.be/CMTObiR45LI)
+[![Bike Rental Website Showcase](https://i.ytimg.com/vi/CMTObiR45LI/maxresdefault.jpg)](https://youtu.be/CMTObiR45LI)
 
 ## Features
 
