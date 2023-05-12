@@ -10,7 +10,7 @@ I have a YouTube channel where you can find more tutorials and videos related to
 
 I have created a video tutorial on YouTube that demonstrates how to set up and host this bike rental website. You can watch the tutorial [here](https://youtu.be/qnrXURmQSlI).
 
-[![Bike Rental Website Setup Tutorial](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqnrXURmQSlI&psig=AOvVaw3DvzYY1b6oqHJW63CHpPzQ&ust=1683968347940000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiP9Iu17_4CFQAAAAAdAAAAABAE)](https://youtu.be/qnrXURmQSlI)
+[![Bike Rental Website Setup Tutorial](https://i.ytimg.com/vi/qnrXURmQSlI/maxresdefault.jpg)](https://youtu.be/qnrXURmQSlI)
 
 ## Showcase on YouTube
 
