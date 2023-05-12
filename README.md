@@ -27,9 +27,15 @@ I have also created a video on my YouTube channel showcasing the features and fu
 - View rental history and details
 - Admin dashboard for managing bikes, users, and rentals
 
+## Contributing
+Contributions to this project are welcome. If you find any bugs or would like to suggest new features, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the GNU General Public License (GPL). You are free to use and modify the code for non-commercial purposes. However, you are not allowed to sell the code or any derivative works based on it.
+
 # List of Accounts
 
-This README provides a list of user and admin accounts associated with a project or application.
+This list of user and admin accounts associated with a project or application.
 
 ## User Accounts
 
@@ -43,9 +49,3 @@ This README provides a list of user and admin accounts associated with a project
 
 - **Username:** admin
   - **Password:** 1234
-
-## Contributing
-Contributions to this project are welcome. If you find any bugs or would like to suggest new features, please open an issue or submit a pull request.
-
-## License
-This project is licensed under the GNU General Public License (GPL). You are free to use and modify the code for non-commercial purposes. However, you are not allowed to sell the code or any derivative works based on it.
